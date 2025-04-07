@@ -1,7 +1,6 @@
-yfinance
+streamlit
 pandas
 pandas_ta
+yfinance
 matplotlib
-numpy
-python-telegram-bot==20.3
-streamlit
+setuptools
