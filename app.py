@@ -12,8 +12,8 @@ import nest_asyncio
 nest_asyncio.apply()  # Fix asyncio issue for Streamlit
 
 # Initialize Telegram bot
-bot = Bot(token="YOUR_BOT_TOKEN")
-chat_id = "YOUR_CHAT_ID"
+bot = Bot(token="7866169725:AAE2cqgvu82sUsDhB2GRH8JDecaIDue9nYg")
+chat_id = "8142807256"
 
 # Streamlit app title
 st.title("Quotex Signal Bot")
