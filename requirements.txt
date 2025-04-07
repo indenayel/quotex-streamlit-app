@@ -1,7 +1,8 @@
 streamlit
-yfinance
 pandas
 pandas_ta
 numpy
-matplotlib
 setuptools
+matplotlib  # if you're plotting charts
+yfinance    # if using Yahoo Finance data
+
