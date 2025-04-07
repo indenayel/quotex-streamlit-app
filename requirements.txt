@@ -5,4 +5,3 @@ matplotlib
 yfinance
 setuptools
 pandas_ta
-
