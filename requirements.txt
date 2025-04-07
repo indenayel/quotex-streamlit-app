@@ -1,7 +1,8 @@
 streamlit
-pandas==1.5.3
-numpy==1.24.4
-matplotlib
-yfinance
-setuptools
+pandas
+numpy
 pandas_ta
+yfinance
+matplotlib
+python-telegram-bot==20.3
+nest_asyncio
