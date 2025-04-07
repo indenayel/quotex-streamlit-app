@@ -1,0 +1,7 @@
+yfinance
+pandas
+pandas_ta
+matplotlib
+numpy
+python-telegram-bot==20.3
+streamlit
